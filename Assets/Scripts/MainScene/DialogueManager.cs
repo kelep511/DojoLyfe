@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-
-
 public class DialogueManager : MonoBehaviour {
 	public GameObject dbox;
 	public Text dtext;
@@ -14,12 +12,11 @@ public class DialogueManager : MonoBehaviour {
 	void Start () {
 		dbox.SetActive(false);
 	}
-	
 	// Update is called once per frame
 	void Update () {
 		if(dialogueActive && Input.GetButtonDown("Submit"))
 		{
-			
+
 			dbox.SetActive(false);
 			dialogueActive = false;
 			PlayerMovement.canmove = true;
@@ -34,5 +31,5 @@ public class DialogueManager : MonoBehaviour {
 		dtext.text = dialogue;
 	}
 
-	
+
 }

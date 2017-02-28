@@ -1,9 +1,10 @@
 # My Dojo Lfye
-My Dojo Lyfe is a simple adventure game meant to emulate the groups' time spent at coding bootcamp. 
-The game was created with four collaborators and built over a span of 4 days. 
-The game was created with C# and Unity Game Engine. 
-Can be played on Windows, Mac OS, and Linux with download and even the Internet if you don't want to download. 
-My Dojo Lyfe can even be played with an Xbox controller.
+
+* My Dojo Lyfe is a simple adventure game meant to emulate the groups' time spent at coding bootcamp. 
+* The game was created with four collaborators and built over a span of 4 days. 
+* The game was created with C# and Unity Game Engine.
+* Can be played on Windows, Mac OS, and Linux with download and even the Internet if you don't want to download. 
+* My Dojo Lyfe can even be played with an Xbox controller.
 
 ## How to Run
 
